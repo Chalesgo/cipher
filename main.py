@@ -25,7 +25,7 @@ def main():
         elif choice == 2:
             vigenere.run()
         elif choice == 3:
-            xor.run()
+            xor.run_xor()
         elif choice == 4:
             convoy.run()
         elif choice == 5:
